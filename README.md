@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirkts01&label=Profile%20views&color=0e75b6&style=flat" alt="yasirkts01" /> </p>
 
-- 🌱 I’m currently learning **Java Python and Web Development**
+- 🌱 I’m currently learning **Every things**
 
 - 💬 Ask me about **My ability to learn: I'm always willing to learn, and always ready to admit when I don't know something. I also look for the lesson in every experience, good or bad I will always walk away with more knowledge than when I entered.**
 
